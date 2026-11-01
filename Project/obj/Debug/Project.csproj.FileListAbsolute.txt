@@ -1,0 +1,7 @@
+C:\University\Semester 2\OOP (lab)\Project\Project\bin\Debug\Project.exe.config
+C:\University\Semester 2\OOP (lab)\Project\Project\bin\Debug\Project.exe
+C:\University\Semester 2\OOP (lab)\Project\Project\bin\Debug\Project.pdb
+C:\University\Semester 2\OOP (lab)\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\University\Semester 2\OOP (lab)\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\University\Semester 2\OOP (lab)\Project\Project\obj\Debug\Project.exe
+C:\University\Semester 2\OOP (lab)\Project\Project\obj\Debug\Project.pdb

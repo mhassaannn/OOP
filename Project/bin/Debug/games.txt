@@ -1,0 +1,5 @@
+Grand Theft Auto V|4500|20|Action
+Red Dead Redemption 2|5500|15|Adventure
+FIFA 25|6500|12|Sports
+Minecraft|3500|25|Sandbox
+Forza Horizon 5|4800|16|Racing
